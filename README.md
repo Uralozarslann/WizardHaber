@@ -1,5 +1,6 @@
 Ekibimiz ile geliştimiş olduğumuz staj projemiz.
 WizardHaber Projesi
+LİNK: https://wizardhaber.pythonanywhere.com/
 
 ANASAYFA:
 
